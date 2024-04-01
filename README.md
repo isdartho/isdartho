@@ -10,9 +10,9 @@
 I'm a software engineer from India 🇮🇳
 </h3>
 <ul>
-  <li>I'm currently working on an e-commerce web app</li>
-  <li>Learning Next.js, system design</li>
-  <li>Also passionate about PC-Builds & Gaming</li>
+  <li>I'm currently working on an e-commerce web app 🛒</li>
+  <li>Learning Next.js, system design 🚀</li>
+  <li>Also passionate about PC-Builds 🖥️ & Gaming 🎮</li>
 </ul>
 <br/>
 <hr/>
