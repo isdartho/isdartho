@@ -29,7 +29,7 @@ I'm a software engineer from India 🇮🇳
 <h2 align="left">Stats ⚡</h2>
 <br>
 <div align=left>
-  <img src="https://isdartho-github-readme.vercel.app/api?username=isdartho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="" /><br/>
+  <img src="https://isdartho-github-readme.vercel.app/api?username=isdartho&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true" alt="" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isdartho&theme=vue-dark&hide_border=true" alt="" /><br/>
   <img src="https://isdartho-github-readme.vercel.app/api/top-langs/?username=isdartho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="" /><br/>
 </div>
