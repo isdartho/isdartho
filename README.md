@@ -1,4 +1,4 @@
-# Hi, I'm Ashis Sahoo 👋
+# Hi, I'm Ashis 👋
 
 **Data Engineer | Azure | Databricks | PySpark | AI Engineering | Distributed Systems**
 
