@@ -22,8 +22,3 @@ I’m a Data Engineer with 8+ years of experience building scalable data platfor
 * Advanced system design
 * Distributed systems
 * Data platform architecture
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/ashis94
-* Email: [ashis.k94sahoo@gmail.com](mailto:ashis.k94sahoo@gmail.com)
